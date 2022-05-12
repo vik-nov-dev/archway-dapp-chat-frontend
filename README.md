@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Archway Chat dApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Smart contract part (2 of 2).
+
+React front-end for the smart contract
 
 ## Available Scripts
 
